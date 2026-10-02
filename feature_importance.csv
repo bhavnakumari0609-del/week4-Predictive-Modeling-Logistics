@@ -1,0 +1,8 @@
+Feature,Importance
+distance_km,0.7583081643591338
+traffic_index,0.19124350848495966
+num_stops_enroute,0.026320500545151525
+package_weight_kg,0.009562536547718013
+is_peak_hour,0.007746859966025248
+weather_severity,0.006810660315320861
+driver_experience_yr,7.76978169076182e-06
